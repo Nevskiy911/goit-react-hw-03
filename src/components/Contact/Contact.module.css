@@ -1,0 +1,19 @@
+.item {
+    padding: 10px 30px;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 350px;
+}
+
+.contacts {
+    display: flex;
+    flex-direction: column;
+}
+
+.delete {
+    margin: auto;
+    height: 50px;
+    width: 150px;
+}
