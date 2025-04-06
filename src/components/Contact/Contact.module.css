@@ -4,7 +4,6 @@
     flex-direction: row;
     border: 1px solid black;
     border-radius: 5px;
-    width: 350px;
 }
 
 .contacts {
@@ -14,6 +13,7 @@
 
 .delete {
     margin: auto;
+    margin-left: 20px;
     height: 50px;
     width: 150px;
 }
